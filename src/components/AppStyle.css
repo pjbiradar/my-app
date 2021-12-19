@@ -1,0 +1,88 @@
+.first{
+    color: darkviolet;
+    text-shadow: 2px 2px hotpink;
+}
+.second{
+    background-color: lightsalmon;
+    color: midnightblue;
+    position: relative;
+    left: 240px;
+    top: 79px;
+    font-size: 15px;
+    width: 302px;
+    height: 58px;
+    border: 2px solid salmon;
+    border-radius: 28px;
+}
+.third{
+    background-color: skyblue;
+    color: darkblue;
+    position: relative;
+    top: 78px;
+    border: 2px solid midnightblue;
+    border-radius: 28px;
+    height: 58px;
+    width: 302px;
+    font-size: 15px;
+    left: 50px;
+}
+.start{
+    background-color: peru;
+    border: 2px solid peru;
+    width: 400px;
+    height: 300px;
+}
+.top{
+    border: 2px solid pink;
+    position: relative;
+    top: 231px;
+    left: 236px;
+    height: 221px;
+    width: 466px;
+    background-color: darkgray;
+    border-radius: 7px;
+}
+.one{
+    color: orangered;
+}
+.two{
+    color: darkgreen;
+}
+.three{
+    color: brown;
+}
+.name1{
+    border: 2px solid pink;
+    position: absolute;
+    top: 377px;
+    left: 736px;
+    
+   
+    height: 221px;
+    width: 466px;
+    background-color: darkgray;
+    border-radius: 7px;
+    
+}
+.name2{
+    color: chartreuse;
+}
+.name3{
+    color: deeppink;
+}
+.name4{
+    color: green;
+}
+.end{
+    display: flex;
+    justify-content:space-between;
+    width: 900px;
+    margin-left: 160px;
+}
+.home1{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    width: 700px;
+
+}
