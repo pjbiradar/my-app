@@ -1,3 +1,6 @@
+body{
+    background-color:gray;
+}
 .first{
     color: darkviolet;
     text-shadow: 2px 2px hotpink;
